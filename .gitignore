@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Engine/.vs/Engine
+/Engine/Engine.vcxproj.user
+/Engine/Engine.vcxproj.filters
+/Engine/Engine.vcxproj
+/Engine/Engine.sln
