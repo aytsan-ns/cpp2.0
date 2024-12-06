@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Engine/.vs/Engine
+/Engine/Engine.vcxproj.user
+/Engine/Engine.vcxproj.filters
+/Engine/Engine.vcxproj
+/Engine/Engine.sln
